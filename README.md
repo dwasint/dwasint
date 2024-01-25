@@ -1,4 +1,4 @@
-[![@borbop's Holopin board](https://holopin.io/api/user/board?user=borbop)](https://holopin.io/@borbop)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=dwasint)](https://git.io/streak-stats)
 
 <!--
 **dwasint/dwasint** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
